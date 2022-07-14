@@ -1,8 +1,7 @@
 package common.utils;
 
-import java.util.Collection;
-
 import lombok.experimental.UtilityClass;
+import java.util.Collection;
 
 /**
  * Utilities for array-collection conversion.
